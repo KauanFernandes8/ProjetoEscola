@@ -1,0 +1,8 @@
+footer.footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: var(--bg-menu);
+    text-align: center;
+    width: 100%;
+}
